@@ -171,7 +171,7 @@ function resetJuego() {
     }
   });
 
-  // Para resetear la imagen de la máquina a la imagen por defecto (pingüino)
+  // Para resetear la imagen de la máquina a la imagen por defecto
   maquinaImg.src = 'img/proyectopiedrapapeltijeras.png';
 
   // Para añadir "Nueva partida" al historial
